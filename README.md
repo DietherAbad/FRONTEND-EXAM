@@ -8,7 +8,7 @@ I researched tailwindcss docs to assist me in styling.
 If I were to use a database I would use MongoDB.
 
 ## Delete
-I used take ID as a parameter to find employees to delete.
+I take ID as a parameter to find employees to delete.
 
 
 
